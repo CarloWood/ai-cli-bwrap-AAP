@@ -1,1 +1,0 @@
-agents-common/AGENTS.md
