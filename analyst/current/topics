@@ -2,4 +2,4 @@
 2. Missing `current_objective` should be repaired by pointing to the first not-achieved node in the correct traversal order. — needs work
 3. Existing helper currently finds the first not-achieved **leaf** only. — answered
 4. Replace leaf-based traversal/order with node-based post-order traversal. — clarified
-5. Wording in `AGENTS.md` should use post-order terminology consistently. — in progress
+5. Wording in `AGENTS.md` should use post-order terminology consistently. — needs work
