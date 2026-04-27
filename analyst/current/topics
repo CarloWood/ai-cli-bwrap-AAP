@@ -1,2 +1,1 @@
-1. Automatic roll-up to `achieved` should be removed; only upward propagation of `not-achieved` should remain. — needs work
-2. Decide whether `aap-previous` means global previous node or previous sibling under the current parent. — needs discussion
+1. all done
