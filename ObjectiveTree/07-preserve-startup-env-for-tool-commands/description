@@ -1,0 +1,1 @@
+Ensure opencode-launched user command shells do not recompute cwd-dependent project environment from opencode’s agent-root cwd; they should preserve the environment selected during initial CLI startup, so variables such as BUILDDIR from nested env.source files remain stable for tool commands.
