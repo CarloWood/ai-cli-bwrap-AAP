@@ -1,0 +1,1 @@
+Extend aap-ls so an optional <ref> or <refpath> argument lists the referenced objective and its direct goals, then prints that objective's description, while preserving the existing no-argument current-objective overview behavior.

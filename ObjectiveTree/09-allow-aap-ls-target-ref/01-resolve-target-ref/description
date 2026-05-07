@@ -1,0 +1,1 @@
+aap-ls accepts at most one non-option argument and resolves it as a sibling <ref> relative to the current objective's parent when it does not start with '/', or as an absolute <refpath> from ObjectiveTree when it does, reusing existing AAP ref matching semantics and clear errors for unknown or ambiguous references.

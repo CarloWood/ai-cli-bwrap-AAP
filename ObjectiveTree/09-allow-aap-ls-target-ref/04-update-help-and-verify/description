@@ -1,0 +1,1 @@
+aap-ls --help documents the optional [<ref>|<refpath>] argument and verification covers no-argument output, sibling ref output such as 'aap-ls 03', absolute refpath output such as 'aap-ls /00.5', leaf objectives with no child goals, and invalid/ambiguous arguments.

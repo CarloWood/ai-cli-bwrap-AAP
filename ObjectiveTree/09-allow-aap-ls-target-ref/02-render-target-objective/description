@@ -1,0 +1,1 @@
+When a target reference is provided, aap-ls prints the target objective's full refpath, its direct child goals if any with the same achieved/current markers used by the existing listing, and a Description section containing the target objective's description without changing current_objective.
